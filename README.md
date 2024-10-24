@@ -10,7 +10,7 @@
 
 [Paper](https://arxiv.org/pdf/2403.01564) | [Video](https://youtu.be/evpeBYR2GPE)
 
-$\text{\color{red}{News\!}}$ ComTraQ-MPC is accepted at _IROS 2024_ 🎉.
+$\text{\color{red}{News\!}}$ ComTraQ-MPC is accepted at _IROS 2024_ as an Oral presentation 🎉.
 
 [Here](https://youtu.be/mqOYaBQ2wVI?t=1647) is a very quick overview of our work being presented by Prof. Ornik at Purdue University.
 
