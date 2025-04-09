@@ -101,6 +101,7 @@ plt.xlabel("Time step", fontsize=14)
 plt.ylabel("Error", fontsize=14)
 plt.legend()
 sns.despine()
+plt.savefig("src/comtraq-mpc/plots/traj_errors.png", dpi=300)
 plt.show()
 
 
@@ -129,6 +130,7 @@ plt.xlabel("Time step", fontsize=14)
 plt.ylabel("Error", fontsize=14)
 plt.legend()
 sns.despine()
+plt.savefig("src/comtraq-mpc/plots/errors.png", dpi=300)
 plt.show()
 
 plt.plot(final_path[:, 0], final_path[:, 1], "r", label="Reference Path")
@@ -145,4 +147,5 @@ plt.scatter(
     zorder=5,
 )
 plt.legend()
+plt.savefig("src/comtraq-mpc/plots/paths.png", dpi=300)
 plt.show()
