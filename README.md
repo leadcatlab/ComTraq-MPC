@@ -141,6 +141,9 @@ conda install -c conda-forge stable-baselines3 pytorch torchvision torchaudio ma
    ```
    Replace `myenv` with the name you chose for your environment.
 
+### Docker installation 
+We have also included the Dockerfile file for installing and running using Docker. 
+
 ## Getting Started (Inference)
 
 First-time running will take a longer time to compile the models.
